@@ -3,7 +3,7 @@ Source Code for the Wikitrivipedia site.
 Site: http://wikitrivipedia.us-east-2.elasticbeanstalk.com/ 
 This site is not yet optimized for mobile, but does work.
 
-Ethan Vander Wiel, ehv@iastate.edu, ethanvdub64@iastate.edu
+Ethan Vander Wiel - ehv@iastate.edu - ethanvdub64@iastate.edu
 
 The wikitrivipedia site was initially made for the hackathon HackISU 2018.
 As a general summary, wikitrivipedia finds a random wikipedia page, creates a question out of it, and creates four answers
