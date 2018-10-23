@@ -14,15 +14,18 @@ I did the entirety of the front end for the site, including the interaction with
 and the underlying html scraping java file. 
 I also got the site deployed to aws and managed the ec2 instance for the site.
 The files I created are:
+
 The three main servlets:
   1. Fail.java
   2. Questions.java
   3. Success.java
+
 The web side files:
   1. index.html
   2. web.xml
   3. footer.css
   4. styles.css
+
 Stylistically, these pages are very much in a prototype stage.
 I also imported the linkedin png, the HackISU logo, and the font
 
